@@ -8,10 +8,9 @@
         "build": "parcel build index.html"
     },
     "keywords": [],
-    "author": "",
+    "author": "Zenahr Barzani",
     "license": "ISC",
     "dependencies": {
-        "jspdf": "^1.5.3",
         "sweetalert": "^2.1.2"
     },
     "devDependencies": {
